@@ -1,6 +1,7 @@
 # CMS Image Ratio Guide
 
 An interactive tool for content teams to preview, crop, and validate images across common CMS component aspect ratios — before they go live.
+https://renzio.github.io/cms-image-ratio-guide/#/
 
 ## What It Does
 
